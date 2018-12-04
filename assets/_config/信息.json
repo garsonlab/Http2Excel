@@ -1,0 +1,10 @@
+{
+	"Name": {
+		"Des": "姓名",
+		"Required": true
+	},
+	"Gender": {
+		"Des": "性别",
+		"Required": false
+	}
+}

@@ -1,0 +1,16 @@
+E:\C#WorkSpace\Http\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.deps.json
+E:\C#WorkSpace\Http\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.runtimeconfig.json
+E:\C#WorkSpace\Http\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.runtimeconfig.dev.json
+E:\C#WorkSpace\Http\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.dll
+E:\C#WorkSpace\Http\HttpServer\bin\Debug\netcoreapp2.1\HttpServer.pdb
+E:\C#WorkSpace\Http\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.csproj.CoreCompileInputs.cache
+E:\C#WorkSpace\Http\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.AssemblyInfoInputs.cache
+E:\C#WorkSpace\Http\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.AssemblyInfo.cs
+E:\C#WorkSpace\Http\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.dll
+E:\C#WorkSpace\Http\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.pdb
+E:\C#WorkSpace\Http\netcoreapp2.1\HttpServer.deps.json
+E:\C#WorkSpace\Http\netcoreapp2.1\HttpServer.runtimeconfig.json
+E:\C#WorkSpace\Http\netcoreapp2.1\HttpServer.runtimeconfig.dev.json
+E:\C#WorkSpace\Http\netcoreapp2.1\HttpServer.dll
+E:\C#WorkSpace\Http\netcoreapp2.1\HttpServer.pdb
+E:\C#WorkSpace\Http\HttpServer\obj\Debug\netcoreapp2.1\HttpServer.csprojAssemblyReference.cache

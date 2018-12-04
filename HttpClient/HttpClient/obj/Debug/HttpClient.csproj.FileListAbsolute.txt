@@ -1,0 +1,16 @@
+E:\C#WorkSpace\Http\HttpClient\HttpClient\bin\Debug\HttpClient.exe
+E:\C#WorkSpace\Http\HttpClient\HttpClient\bin\Debug\HttpClient.pdb
+E:\C#WorkSpace\Http\HttpClient\HttpClient\bin\Debug\Aspose.Cells.dll
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.cache
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.csproj.CopyComplete
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.exe
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.pdb
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.HttpTool.resources
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.Convert.resources
+E:\ClientBin\HttpClient.exe
+E:\ClientBin\HttpClient.pdb
+E:\C#WorkSpace\Http\ClientBin\HttpClient.exe
+E:\C#WorkSpace\Http\ClientBin\HttpClient.pdb
+E:\C#WorkSpace\Http\HttpClient\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
